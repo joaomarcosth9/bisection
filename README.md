@@ -1,5 +1,5 @@
 # bisection
 
-***"When I Wrote It, Only God and I Knew the Meaning; Now God Alone Knows"***
+***"When I wrote this code, only God and I knew how it worked, now only God does"***
 
 All i know is that it can be used to find the roots of an function using the bisection method.
